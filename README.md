@@ -1,14 +1,21 @@
 # Finding Similar Items using Spark
 
-#### The objective of this project is to detect pairs of similar items in the ”StackSample” dataset.
+#### The objective of this project is to detect pairs of similar items in the ”StackSample” dataset
+
+### Spark
 
 Spark environment was set to run computations and scale the results. The following modules were explored:
 - **Spark SQL**, a relational framework for structured data processing
 - **Spark MLlib**, a scalable machine learning library for feature extraction and similarity analysis
 
-**Dataset**: 
+**Code** was implemented using Google colab notebook.
 
-The project consists of:
+### Dataset
+
+["StackSample"](https://www.kaggle.com/stackoverflow/stacksample) dataset which contains 1.26 million questions from the Stack Overflow website. 
+The dataset was downloaded directly to the Google Colab notebook via Kaggle API.
+
+### Project structure
 
 **1. Exploratory analysis and Data pre-processing:**
 - Creating PySpark dataframe
