@@ -8,7 +8,7 @@ Spark environment was set to run computations and scale the results. The followi
 - **Spark SQL**, a relational framework for structured data processing
 - **Spark MLlib**, a scalable machine learning library for feature extraction and similarity analysis
 
-**Code** was implemented using Google colab notebook.
+**Code** was implemented using [Google colab notebook](https://github.com/angelinakhatiwada/Finding_Similar_Items_Spark/blob/main/Finding_similar_items.ipynb).
 
 ### Dataset
 
